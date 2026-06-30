@@ -26,6 +26,8 @@ This is a corrected and updated walkthrough for setting up the Vprofile multi-ti
 
 ---
 
+![Vprofile Architecture](vprofile.png)
+
 ## Prerequisites
 
 - Oracle VM VirtualBox
